@@ -1,0 +1,34 @@
+myapp-1.txt
+myapp-2.txt
+myapp-3.txt
+the main testfiles,if you do not want to change the code,just put them in the follow address:
+F:\DESKTOP\
+
+
+testfiles,if you do not want to change the code,just create a folder named log_out in the follow address:
+F:\DESKTOP\
+and create a folder named log_list in the follow address:
+F:\DESKTOP\log_out\
+________________________________________________________________________________________________________________________
+no testfiles needed,you just need to download the main testfiles and put them in F:\DESKTOP\               
+and create a folder in F:\DESKTOP\
+and create a folder in F:\DESKTOP\log_out\
+need to creat a txt file named year-month-day just a day before now
+（for example，now is 2022-11-4，to run that，U need to creat a txt file called 2022-11-3 in F:\DESKTOP\log_out\log_list）                                                                 
+________________________________________________________________________________________________________________________
+myapp-1.txt
+myapp-2.txt
+myapp-3.txt
+主测试文件，如果不想更改代码，只需将它们放在以下地址：
+F:\DESKTOP\log\
+测试文件，如果不想更改代码，只需在以下地址中创建一个名为log_out的文件夹：
+F:\DESKTOP\
+并在以下地址中创建一个名为log_list的文件夹：
+F:\DESKTOP\log_out\
+________________________________________________________________________________________________________________________
+不需要测试文件，你只需要下载主测试文件并将它们放在F:\DESKTOP\log\           
+并在F:\DESKTOP中创建一个文件夹
+并在F:\DESKTOP\log_out\中创建一个文件夹   
+需要创建一个比现在早一天名为年月日的 txt 文件
+（例如，现在是 2022-11-4，要运行它，您需要在 F:\DESKTOP\log_out\log_list中创建一个名为 2022-11-3 的 txt 文件）                                                        
+________________________________________________________________________________________________________________________
