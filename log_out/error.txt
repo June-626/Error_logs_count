@@ -1,0 +1,4 @@
+[fatal error]:22
+[fatal error]:22
+[fatal error]:22
+Toltal number of errors:3
